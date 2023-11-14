@@ -1,0 +1,290 @@
+.slider-container {
+    margin: 2rem 0.1rem 0 0.1rem;
+    background-color: rgba(204, 203, 203, 0.1);
+}
+
+.AllPages .slide {
+    text-align: center;
+    font-size: 18px;
+    background: transparent;
+    margin: 2rem 0.5rem 0.5rem 0.5rem;
+}
+
+.ProContent {
+    padding: 0 0.7rem 0 0.7rem;
+    padding-bottom: 4rem;
+    margin-bottom: 4rem;
+}
+
+.contain {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.Link {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.Link:hover {
+    color: rgb(222, 128, 84);
+}
+
+/* HRIS PAGE CSS */
+.forms {
+    box-shadow: rgba(255, 113, 12, 0.3) 0px 2px 8px 3px;
+    color: white;
+    padding: 1.5rem;
+    margin-bottom: 4rem;
+}
+
+.textfield .Link {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.textfield .Link:hover {
+    font-size: 17px;
+    color: rgb(255, 153, 19);
+}
+
+.textfield li {
+    list-style-type: square;
+    color: rgb(255, 153, 19);
+}
+
+.textfield li:hover {
+    color: rgb(255, 255, 255);
+}
+
+/* forms css */
+.hrmImage img {
+    width: 90px;
+    float: right;
+}
+
+.SetupForm {
+    color: white;
+    margin-bottom: 4rem;
+    background-color: rgba(204, 203, 203, 0.01);
+}
+
+.SetupForm .Heading h5 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+}
+
+.SetupForm span {
+    color: rgb(255, 60, 60);
+}
+
+.textfield .form-label {
+    color: white;
+}
+
+.SetupForm .status {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(251, 172, 69);
+    border-radius: 0;
+    color: rgb(218, 210, 210);
+}
+
+.SetupForm option {
+    color: rgb(1, 1, 1);
+}
+
+.SetupForm .status:focus {
+    border: none;
+    box-shadow: none;
+    border-bottom: 2px solid rgb(134, 134, 134);
+}
+
+.SetupForm .btn {
+    margin-top: 1rem;
+    width: 15%;
+    margin-right: 1rem;
+    height: 35px;
+    font-weight: 700;
+    border-radius: 0;
+    font-size: 1rem;
+    background-color: rgb(255, 153, 19);
+}
+
+.accordion-body .distributed {
+    margin-top: 4rem;
+}
+
+.VisibleCompany {
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid rgb(251, 172, 69);
+}
+
+.VisibleCompany option {
+    color: white;
+}
+
+.quill-editor {
+    height: 300px;
+    /* Set the height as needed */
+    background-color: #f9f9f9;
+    /* Set the background color */
+    color: black;
+}
+
+.Consultant {
+    margin-top: 4.2rem;
+}
+.SetupForm .Review{
+    font-weight: 600;
+    font-size: 15px;
+}
+.SetupForm .InfoLink{
+    text-decoration: underline;
+    color: rgb(243, 176, 128);
+    font-weight: 500;
+}
+
+.Ratings .Reviews{
+    font-size: 16px;
+}
+.Ratings tbody td{
+    text-align: center;
+}
+.Ratings{
+    color: white;
+}
+.Ratings thead{
+    border: none !important;
+}
+.Reviews{
+    font-size: 16px;
+}
+.table>:not(caption)>*>* {
+    border-bottom-width: 0;
+ }
+ .loadlist{
+    border:  1px solid rgb(251, 172, 69);
+    background-color: transparent;
+    color: rgb(251, 172, 69);
+    font-weight: 600;
+    padding: 0.5rem;
+    width: 25%;
+}
+.PSalary .loadlist{
+    width: 50%;
+}
+.PSalary .PayrollSalary .btn{
+width: 30%;
+}
+.loadlist:hover{
+    border:  1px solid rgb(251, 172, 69);
+    background-color: rgb(249, 152, 24);
+    color: white;
+}
+/* l&A Shift */
+.Shift table {
+    color: rgb(255, 255, 255) !important;
+    border-color: rgb(255, 145, 0);
+}
+.Shift table th{
+    text-align: center;
+   font-weight: 800;
+   font-size: 0.8rem !important;
+   letter-spacing: 0.5px;
+   width: 10%;
+}
+.Shift .form-select {
+    background-color: transparent;
+    border: none;
+}
+
+.Shift .form-select:focus {
+    box-shadow: none;
+}
+.Shift .form-control {
+    border-bottom: none !important;
+}
+.Shift .table .form-control:focus, .Shift .form-select:focus{
+    width: 200px;
+ }
+ .displayfound{
+    display: block;
+    width: 100%;
+    border: 1px solid rgb(251, 172, 69);
+    color: white;
+}
+.UploadAttendance .btn{
+    width: 50%; 
+}
+.GoTo{
+    float: right;
+    margin-top: 1rem;
+}
+/* Reports Pages in HRLA*/
+.textfield #btn{
+    width: 20% !important;
+}
+/* Payroll Setup Page Forms */
+.PPHead h5{
+    font-weight: 800;
+    font-size: 16px;
+    margin-top: 1rem;
+    letter-spacing: 0.7px;
+}
+.PPHead .PPdiv .form-control{
+    width: 70px;
+    border: 1px solid orange;
+    display: inline;
+    height: 30px;
+}
+.EBActual .UpdateData .btn{
+    width: 19%;
+}
+.multiplename option{
+    color: white;
+}
+.accordion .loadlist{
+    width: 50%;
+    margin-top: 1.5rem;
+}
+.SetupForm .Installment .btn{
+    width: 25%;
+}
+@media (max-width: 1185px) {
+    .Link {
+        font-size: 11px;
+        font-weight: 600;
+    }
+}
+
+@media (max-width: 420px) {
+    .logo {
+        margin-top: 0.5rem;
+    }
+}
+@media (max-width: 575px) {
+    .UploadAttendance .btn{
+        width: 100% !important;
+    }
+}
+@media (max-width: 960px) {
+    .accordion .loadlist{
+        width: 100%;
+    }
+}
+@media (max-width: 575px) {
+    .accordion .loadlist{
+       margin-top: 0;
+    }
+}

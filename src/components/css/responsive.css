@@ -1,0 +1,342 @@
+@media (max-width: 1280px) {
+    .card .card-img {
+        width: 130px;
+    }
+
+    .Main {
+        padding: 2rem;
+    }
+
+}
+
+@media (max-width: 1240px) {
+    .card .card-text {
+        font-size: 14px;
+    }
+
+    .form-label {
+        font-size: 14px;
+    }
+
+    .button-list .btn a {
+        font-size: 1rem;
+    }
+    .Shift table th{
+        font-size: 0.6rem !important;
+     }
+    .SetupForm .textfield #btn{
+        width: 40% !important;
+    }
+    .SetupForm .textfield .MidReview .btn{
+        width: 23%;
+    }
+    .SetupForm .Installment .btn{
+        width: 35% !important;
+    }
+}
+
+@media (max-width: 912px) {
+    .container {
+        max-width: 100%;
+    }
+    .MainCont{
+        max-width: 100%;
+    }
+    .card .card-text {
+        font-size: 13px;
+    }
+
+    .form-label {
+        font-size: 13px;
+    }
+
+    .button-list .btn {
+        margin-right: 1rem;
+    }
+    .hrmImage img{
+        width: 70px !important;
+    }
+    .Consultant{
+        margin-top: 0.2rem;
+    }
+    .SetupForm .textfield .MidReview .btn{
+        width: 50%;
+    } 
+}
+
+@media (max-width: 900px) {
+    .edittable .btn {
+        width: 20%;
+    }
+    .SetupForm .btn {
+        width: 20%;
+    }
+    .PSalary .loadlist{
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 820px) {
+    .Main {
+        padding-top: 2rem !important;
+        padding: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .card .card-img {
+        width: 100px;
+    }
+
+    .card .card-text {
+        font-size: 12px;
+    }
+
+    .form-label {
+        font-size: 12px;
+    }
+
+    .form {
+        padding: 1rem;
+    }
+
+    .button-list .btn a {
+        font-size: 0.9rem;
+        font-weight: 700;
+    }
+
+    .personalInfo .Heading h5 {
+        font-size: 1.2rem;
+    }
+    .hrmImage img{
+        width: 50px !important;
+    }
+    .SetupForm .loadlist{
+        width: 40%;
+    }
+    .PSalary .PayrollSalary .btn{
+        width: 50% !important;
+        }
+        .SetupForm .Installment .btn{
+            width: 50% !important;
+        }
+}
+
+@media (max-width: 700px) {
+    .button-list .btn a {
+        font-size: 0.8rem;
+        font-weight: 700;
+    }
+
+    .button-list .btn {
+        margin-right: 0.1rem;
+    }
+
+    .accordion-button {
+        font-size: 1rem;
+    }
+
+    .edittable table th {
+        font-size: 0.8rem;
+        font-weight: 600;
+    }
+    .EBActual .UpdateData .btn{
+        width: 25% !important;
+    }
+}
+@media (max-width: 620px) {
+    .Reviews {
+        font-size: 14px !important;
+    }
+    .SetupForm .loadlist{
+        width: 60%;
+    }
+    .UAttendance .UploadAttendance .btn{
+        width: 100% !important;
+    }
+    .PSalary .PayrollSalary .btn{
+        width: 100% !important;
+        }
+}
+
+@media (max-width: 540px) {
+    #fulldate {
+        font-size: 12px;
+    }
+    .UploadAttendance .btn{
+        height: 60px !important;
+    }
+    .row2 {
+        font-size: 12px;
+        line-height: 6px;
+    }
+
+    .Clogo .head {
+        margin: 0.5rem;
+        font-size: 15px;
+    }
+
+    .button-list .btn a {
+        font-size: 0.68rem;
+    }
+
+    .button-list .btn {
+        margin-right: 0;
+    }
+
+    .card {
+        box-shadow: none;
+        border: none;
+    }
+    .accordion-button {
+        font-size: 0.9rem;
+    }
+
+    .personalInfo .Heading h5 {
+        font-size: 1rem;
+    }
+    .card .card-img {
+        width: 70px;
+    }
+    .form {
+        padding: 1rem 0.6rem 1rem 1rem;
+    }
+    .SetupForm .btn {
+        width: 50% !important;
+    }
+    .accordion-body .distributed {
+        margin-top: 1.5rem;
+    }
+    .Reviews {
+        font-size: 12px !important;
+    }
+    .SetupForm .PayrollSalary .btn{
+        width: 100% !important;
+      }
+      .EBActual .UpdateData .btn{
+        width: 50% !important;
+    }
+    .SetupForm .textfield #btn{
+        width: 50% !important;
+    }
+    .SetupForm .Installment .btn{
+       font-size: 11px;
+    }
+}
+
+@media (max-width: 414px) {
+    .logo {
+        width: 120px;
+    }
+
+    .row2 {
+        margin-top: 12px;
+    }
+
+    .button-list .btn {
+        padding: 0.4rem !important;
+    }
+
+    .button-list .btn a {
+        font-size: 0.59rem;
+    }
+
+    .edittable .btn {
+        width: 40%;
+    }
+    .HRISLine{
+        font-size: 0.8rem;
+    }
+    .HRIS .card-title{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .SetupForm .Heading h5 {
+        font-size: 1.2rem !important;
+    }
+    .Reviews {
+        font-size: 9px !important;
+    }
+    .SetupForm .loadlist{
+        width: 100%;
+    }
+    .SetupForm .textfield .MidReview .btn{
+        font-size: 12px;
+    } 
+    .SetupForm .Installment .btn{
+        font-size: 10px;
+        height: 40px;
+     }
+}
+
+@media (max-width: 360px) {
+    .button-list .btn a {
+        font-size: 0.59rem;
+    }
+    #fulldate {
+        font-size: 10px;
+    }
+    .Clogo .head {
+        margin: 0.2rem;
+        font-size: 13px;
+    }
+    .logo {
+        width: 100px;
+        margin-top: 0.5rem;
+    }
+    .HRISLine{
+        font-size: 0.7rem;
+    }
+    .form {
+        padding: 1rem 0.3rem 1rem 1rem;
+    }
+    .SetupForm .Heading h5 {
+        font-size: 1rem !important;
+    }
+    .UploadAttendance .btn{
+        font-size: 13px !important;
+    }
+   
+    .EBActual .UpdateData .btn{
+        font-size: 12px;
+    }
+    .SetupForm .textfield #btn{
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 280px) {
+    .button-list .btn a {
+        font-size: 0.49rem;
+    }
+    .row2 {
+        font-size: 10px;
+    }
+
+    #fulldate {
+        font-size: 9px;
+    }
+
+    .Clogo .head {
+        font-size: 12px;
+    }
+    .SetupForm .Heading h5 {
+        font-size: 0.8rem !important;
+    }
+    .hrmImage img{
+        width: 40px !important;
+    }
+    .Reviews {
+        font-size: 6px !important;
+    }
+    .SetupForm .textfield .MidReview .btn{
+       height: 50px;
+    } 
+    .UploadAttendance .btn{
+        font-size: 11px !important;
+    }
+    .SetupForm .Installment .btn{
+        font-size: 9px;
+        height: 50px;
+     }
+}
