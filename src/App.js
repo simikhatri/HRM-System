@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import './components/css/style.css'
 import './components/css/responsive.css'
@@ -10,14 +10,14 @@ function App() {
   return (
     <>
       <div className="Main">
-        <BrowserRouter>
+        <HashRouter>
           <Header />
           <Routes>
             {routes.map((route, index) => (
               <Route key={index} {...route} />
             ))}
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </div>
     </>
 

@@ -1,10 +1,9 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import { Container, Row, Col, Form } from 'react-bootstrap';
 import Attendance from '../../../images/attendance-removebg.png'
 import { Link, useNavigate } from 'react-router-dom';
 
 const AFile = () => {
-    const [claimDate, setClaimDate] = useState('');
     const navigate = useNavigate();
     const handleClick = () => {
         // Redirect to the home page
