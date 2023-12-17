@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/HRM-System/static/css/main.1baeeea8.css",
+    "main.js": "/HRM-System/static/js/main.8f7817fb.js",
+    "static/media/proll-removebg-preview (1).png": "/HRM-System/static/media/proll-removebg-preview (1).f88264812bc2d4807805.png",
+    "static/media/Creat-removebg-preview.png": "/HRM-System/static/media/Creat-removebg-preview.37395b3ee3a62c3b13ce.png",
+    "static/media/businessman_318-863386-removebg-preview.png": "/HRM-System/static/media/businessman_318-863386-removebg-preview.76c7754040bc1b5eb45d.png",
+    "static/media/user-removebg-preview.png": "/HRM-System/static/media/user-removebg-preview.483dffbe9e9a64e959f4.png",
+    "static/media/men-removebg-preview.png": "/HRM-System/static/media/men-removebg-preview.04b3609097d7bdbf3a7c.png",
+    "static/media/hrm-removebg-preview.png": "/HRM-System/static/media/hrm-removebg-preview.6a39661cfb4dd2436000.png",
+    "static/media/profile.jpg": "/HRM-System/static/media/profile.ecdff7a463a00863c47c.jpg",
+    "static/media/eloan-removebg-preview.png": "/HRM-System/static/media/eloan-removebg-preview.990c9726e0422b17d719.png",
+    "static/media/rect-removebg-preview.png": "/HRM-System/static/media/rect-removebg-preview.e8ffd96213737559e6e7.png",
+    "static/media/logo.png": "/HRM-System/static/media/logo.9517618d465e60f0979e.png",
+    "static/media/self-removebg-preview.png": "/HRM-System/static/media/self-removebg-preview.cae29319af68e9f087d2.png",
+    "static/media/attendance-removebg.png": "/HRM-System/static/media/attendance-removebg.e9b60d1cab18d5d1c66b.png",
+    "static/media/attend-removebg-preview.png": "/HRM-System/static/media/attend-removebg-preview.9c8d7e2d3d71aa46983c.png",
+    "static/media/logo2.png": "/HRM-System/static/media/logo2.3beb70945e8aca1157d3.png",
+    "static/media/images-removebg-preview.png": "/HRM-System/static/media/images-removebg-preview.0f2532576d1a611d6628.png",
+    "index.html": "/HRM-System/index.html",
+    "main.1baeeea8.css.map": "/HRM-System/static/css/main.1baeeea8.css.map",
+    "main.8f7817fb.js.map": "/HRM-System/static/js/main.8f7817fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1baeeea8.css",
+    "static/js/main.8f7817fb.js"
+  ]
+}
